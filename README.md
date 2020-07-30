@@ -77,31 +77,7 @@ Topics to Cover
 |  | *ii* | [Next.js](#Next.js)|
 |  | *iii* | [React Native](#React-Native) |
 
-## State Management
-  ### Redux or Mobx
-  ### Apollo Client
-## Routing
-  ### React Routing
-## Styling
-  ### Styled Components or Emotion
-  ### Tailwind CSS
-  ### Chakra UI or Material UI or Ant Design
-## Forms
-  ### Formik
-  ### Reack Form Hook
-## Testing
-  ### Jest and React Testing Library
-  ### Cypress
-## Miscellaneous
-  ### TypeScript
-  ### Storybook
-  ### React i18Next
-  ### Firebase
-  ### Practical React Library
-## Next to Learn
-  ### Gatsby
-  ### Next.js
-  ### React Native
+
 
 
 
@@ -186,3 +162,71 @@ Topics to Cover
   ### Custom Hooks
   
   
+# Ecosystem
+
+## State Management
+
+  ### Redux or Mobx
+  
+  
+  ### Apollo Client
+  
+  
+## Routing
+
+  ### React Routing
+  
+  
+## Styling
+
+  ### Styled Components or Emotion
+  
+  
+  ### Tailwind CSS
+  
+  
+  ### Chakra UI or Material UI or Ant Design
+  
+
+## Forms
+  
+  ### Formik
+  
+  
+  ### Reack Form Hook
+  
+  
+## Testing
+  
+  ### Jest and React Testing Library
+  
+  
+  ### Cypress
+  
+  
+## Miscellaneous
+  
+  ### TypeScript
+  
+  
+  ### Storybook
+  
+  
+  ### React i18Next
+  
+  
+  ### Firebase
+  
+  
+  ### Practical React Library
+  
+  
+## Next to Learn
+  
+  ### Gatsby
+  
+  
+  ### Next.js
+  
+  
+  ### React Native
