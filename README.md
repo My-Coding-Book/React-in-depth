@@ -74,7 +74,7 @@ Topics to Cover
 |  | *v* | [Practical React Library](#Practical-React-Library) |
 | 7 | Next to Learn |  |
 |  | *i* | [Gatsby](#Gatsby) |
-|  | *ii* | [Next.js](#Next.js)|
+|  | *ii* | [NextJS](#NextJS)|
 |  | *iii* | [React Native](#React-Native) |
 
 
@@ -226,7 +226,7 @@ Topics to Cover
   ### Gatsby
   
   
-  ### Next.js
+  ### NextJS
   
   
   ### React Native
