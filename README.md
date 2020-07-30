@@ -7,8 +7,9 @@ Topics to Cover
 
 ## Fundamentals
 
+| # | Content |
+| - | ------- |
 | 1 | [Create React App](#Create-React-App) |
-| - | ------------------------------------- |
 | 2 | [Function Components](#Function-Components) |
 | 3 | [Class Components](#Class-Components) |
 | 4 | [JSX](#JSX) |
